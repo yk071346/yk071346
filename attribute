@@ -1,0 +1,4 @@
+la = 91
+ma = np.zeros(la)
+
+Got an message "'int' object has no attribute 'zeros'"
